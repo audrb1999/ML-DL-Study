@@ -16,3 +16,5 @@
 ![image](https://user-images.githubusercontent.com/68139415/117281497-ad455500-ae9e-11eb-8257-fc12b94f9b1c.png)
 
 완료!
+
+$2x$
